@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 2020-02-16/16:35:37		 phising_08012020_120000.csv: Quotes added successfully!!
 2020-02-16/17:27:46		 phising_08012020_120000.csv: Quotes added successfully!!
+=======
+2020-02-16/16:35:37		 phising_08012020_120000.csv: Quotes added successfully!!
+2020-02-16/17:27:46		 phising_08012020_120000.csv: Quotes added successfully!!
+>>>>>>> 209b4427b07766e3b33fe42f325614335a16fd71

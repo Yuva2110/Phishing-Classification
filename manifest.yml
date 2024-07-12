@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 applications:
@@ -7,4 +8,15 @@ applications:
   random-route: true
   parameters:
     memory: 2GB
+=======
+
+---
+applications:
+- name: phisingClassifier
+  memory: 2GB
+  disk_quota: 1GB
+  random-route: true
+  parameters:
+    memory: 2GB
+>>>>>>> 209b4427b07766e3b33fe42f325614335a16fd71
     buildpack: 'python_buildpack'

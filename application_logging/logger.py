@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from datetime import datetime
 
 
@@ -11,3 +12,18 @@ class App_Logger:
         self.current_time = self.now.strftime("%H:%M:%S")
         file_object.write(
             str(self.date) + "/" + str(self.current_time) + "\t\t" + log_message +"\n")
+=======
+from datetime import datetime
+
+
+class App_Logger:
+    def __init__(self):
+        pass
+
+    def log(self, file_object, log_message):
+        self.now = datetime.now()
+        self.date = self.now.date()
+        self.current_time = self.now.strftime("%H:%M:%S")
+        file_object.write(
+            str(self.date) + "/" + str(self.current_time) + "\t\t" + log_message +"\n")
+>>>>>>> 209b4427b07766e3b33fe42f325614335a16fd71

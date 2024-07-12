@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2020-02-14/15:05:21		File exported successfully!!!
 2020-02-14/15:19:09		File exported successfully!!!
 2020-02-14/15:25:06		File exported successfully!!!
@@ -5,3 +6,12 @@
 2020-02-14/18:46:40		File exported successfully!!!
 2020-02-16/17:22:42		File exported successfully!!!
 2020-02-16/17:44:56		File exported successfully!!!
+=======
+2020-02-14/15:05:21		File exported successfully!!!
+2020-02-14/15:19:09		File exported successfully!!!
+2020-02-14/15:25:06		File exported successfully!!!
+2020-02-14/15:35:25		File exported successfully!!!
+2020-02-14/18:46:40		File exported successfully!!!
+2020-02-16/17:22:42		File exported successfully!!!
+2020-02-16/17:44:56		File exported successfully!!!
+>>>>>>> 209b4427b07766e3b33fe42f325614335a16fd71
