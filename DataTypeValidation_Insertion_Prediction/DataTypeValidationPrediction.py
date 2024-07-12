@@ -3,7 +3,7 @@ import sqlite3
 from os import listdir
 import os
 import csv
-from application_logging.logger import App_Logger
+#from application_logging.logger import App_Logger
 
 
 class dBOperation:

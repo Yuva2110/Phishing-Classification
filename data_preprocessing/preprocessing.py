@@ -3,9 +3,6 @@ import numpy as np
 from sklearn.impute import KNNImputer
 from sklearn_pandas import CategoricalImputer
 
-
-
-
 class Preprocessor:
     """
         This class shall  be used to clean and transform the data before training.

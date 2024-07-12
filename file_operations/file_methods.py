@@ -2,7 +2,6 @@ import pickle
 import os
 import shutil
 
-
 class File_Operation:
     """
                 This class shall be used to save the model after training
